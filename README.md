@@ -13,6 +13,7 @@ Template repository for a `typescript` project.
 | `build:compile` | Compile into `/dist`                               |
 |         `build` | Run all the `build:*` commands                     |
 |           `dev` | Run the application from `/src` with hot reloading |
+|      `dev:test` | Test in watch mode                                 |
 |          `test` | Run all test files                                 |
 
 <hr/>
