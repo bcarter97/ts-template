@@ -11,6 +11,7 @@
     "build:compile": "tsc",
     "build": "run-s build:*",
     "dev": "nodemon src/index.ts",
+    "dev:test": "jest --watch",
     "test": "jest"
   },
   "devDependencies": {
